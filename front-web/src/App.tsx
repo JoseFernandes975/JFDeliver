@@ -1,13 +1,9 @@
 import './App.css';
-import Home from './Home';
-import NavBar from './NavBar';
+import Routess from './Routes';
 
 function App() {
   return (
-    <>
-      <NavBar />
-      <Home />
-    </>
+      <Routess />
   );
 }
 
